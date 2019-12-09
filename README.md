@@ -47,26 +47,41 @@ dang good desserts zone [front end](https://github.com/esin87/ga-seir-project3-f
 
 __MORE COMING SOON__
 
-here are links to open source contributions
+
+******
+
+__here are links to open source contributions__
 
 twillo
+
 movie quotes
+
 dog api
+
 emoji screen
 
 
 
 
 
-here are links to Gen Assembly class work repos
+__here are links to Gen Assembly class work repos__
 
 sql
+
+API's
+
 python
+
 testing
+
 react
+
 mehn
+
 mern
+
 algorithms
+
 
 
 
