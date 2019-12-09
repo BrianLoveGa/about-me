@@ -52,13 +52,15 @@ __MORE COMING SOON__
 
 __here are links to open source contributions__
 
-twillo
+twillo [pixel art](https://github.com/BrianLoveGa/open-pixel-art)
 
-movie quotes
+[movie quotes](https://github.com/BrianLoveGa/popular-movie-quotes)
 
-dog api
+[dog api](https://github.com/BrianLoveGa/dog-api-images)
 
-emoji screen
+[emoji screen](https://github.com/BrianLoveGa/emojiscreen)
+
+[inspire quotes](https://github.com/BrianLoveGa/inspirational-quotes)
 
 
 
