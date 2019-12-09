@@ -26,14 +26,14 @@ __Current Projects__
 
 
 
-here are links to portfolio project repos
+__links to portfolio project repos__
 
 
 [cheerups](https://github.com/BrianLoveGa/project-2-cheerupApp)
 
 [rpsls](https://github.com/BrianLoveGa/game-rock-paper-scissors)
 
-dang good desserts zone[front end](https://github.com/esin87/ga-seir-project3-frontend) [back end](https://github.com/esin87/ga-seir-project3)
+dang good desserts zone [front end](https://github.com/esin87/ga-seir-project3-frontend) & [back end](https://github.com/esin87/ga-seir-project3)
 
 [simple > complex](https://github.com/BrianLoveGa/proj4-simple-over-complex)
 
