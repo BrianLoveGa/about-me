@@ -66,23 +66,8 @@ twillo [pixel art](https://github.com/BrianLoveGa/open-pixel-art)
 
 
 
-__here are links to Gen Assembly class work repos__
+__code-challenges__
 
-sql
-
-API's
-
-python
-
-testing
-
-react
-
-mehn
-
-mern
-
-algorithms
 
 
 
