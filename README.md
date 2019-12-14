@@ -88,10 +88,16 @@ JS and PY
 [repo here](https://github.com/BrianLoveGa/code_work)
 code challenges some from code wars
 
+****
+
+__work from not class__
+
 [spam](https://github.com/BrianLoveGa/python_practice_spam)
 python django app
 full crud 
 first name, last name, nickname, birthday, email
+
+
 
 
 *****
