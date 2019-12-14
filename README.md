@@ -41,7 +41,7 @@ MEHN
 crud on cheerups
 crud on account
 
-[rpsls](https://github.com/BrianLoveGa/game-rock-paper-scissors)
+[rocks papers scissors lizards & spocks](https://github.com/BrianLoveGa/game-rock-paper-scissors)
 
 
 vanilla JS
