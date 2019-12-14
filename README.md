@@ -35,27 +35,39 @@ __links to portfolio project repos__
 
 
 [cheerups](https://github.com/BrianLoveGa/project-2-cheerupApp)
+
+
 MEHN 
 crud on cheerups
 crud on account
 
 [rpsls](https://github.com/BrianLoveGa/game-rock-paper-scissors)
+
+
 vanilla JS
 html
 
 dang good desserts zone [front end](https://github.com/esin87/ga-seir-project3-frontend) & [back end](https://github.com/esin87/ga-seir-project3)
+
+
 MERN
 full crud on recipies
 
 [simple > complex](https://github.com/BrianLoveGa/proj4-simple-over-complex)
+
+
 python JS
 react
 
 [space battle](https://github.com/BrianLoveGa/space-battle-game)
+
+
 html js
 console log game
 
 [cool links](https://github.com/BrianLoveGa/cool-LinksPage)
+
+
 html css
 
 
@@ -83,9 +95,12 @@ twillo [pixel art](https://github.com/BrianLoveGa/open-pixel-art)
 __code-challenges__
 where I am practicing code challenges to stay sharp
 
+
 JS and PY
 
 [repo here](https://github.com/BrianLoveGa/code_work)
+
+
 code challenges some from code wars
 
 ****
@@ -93,11 +108,15 @@ code challenges some from code wars
 __work from not class__
 
 [spam](https://github.com/BrianLoveGa/python_practice_spam)
+
+
 python django app
 full crud 
 first name, last name, nickname, birthday, email
 
 [hello gatsby](https://github.com/BrianLoveGa/all-the-fuss-about-gatsby)
+
+
 So what's all the fuss about this gatsby?
 like react but easier
 basic static starter site
@@ -110,7 +129,7 @@ __old class work__
 writing a console log comic book in JS
 
 [ATM LAB](https://github.com/BrianLoveGa/JS_ATM_LAB/blob/master/src/challenge.js)
-writing a banking atm suimulation program
+writing a banking atm suimulation program JS
 
 [tic-tac-toe game](https://github.com/BrianLoveGa/first-tic-tac-toe-game)
 basigc game created with vanilla JS
