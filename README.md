@@ -176,8 +176,8 @@ use SQL to find Carmen Sandiego
 use SQl on old NFL player data
 
 [Nostaldja](https://github.com/BrianLoveGa/Nostaldja)
-Python Django models views templated
-track fads over different decades
+Python Django models views templates
+To track fads over different decades
 decades - crud
 fads - crud
 
