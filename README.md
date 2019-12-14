@@ -6,27 +6,28 @@ __Recruiters, Employers, Job offers _-_ Start Here__
 
 My git is a bit cluttered at the moment. Since I am not sure where the job search will lead me and what of all this info is relevant let me be your guide.
 Below are links to repos grouped accordingly. If the site is live you can access it from the read-me in the repo or with the link at the top.
+The 💻 denotes a live site.
 
 ------
 
-[my current portfolio](https://brianlovega.github.io/portfolio-improvements/)
+💻[my current portfolio](https://brianlovega.github.io/portfolio-improvements/) via GH Pages
 
 
-[first portfolio site re-creation](https://brianloveless-copy.netlify.com/)
+💻[first portfolio site re-creation](https://brianloveless-copy.netlify.com/) via Netlify
 
 _Before I knew any better I bought a site through go-daddy. Here I have recreated / improved it. Just check the console log errors between them. The original site is below._
 
-[my first protfolio](www.brianloveless.com)
+💻[my first protfolio](www.brianloveless.com) via go-daddy
 
 ______
 
 __Current Projects__
 
-[simple > complex](https://github.com/BrianLoveGa/proj4-simple-over-complex)
+💻[simple > complex](https://github.com/BrianLoveGa/proj4-simple-over-complex) via GH pages
 
 [python koans](https://github.com/BrianLoveGa/python_koans)
 
-[my portfolio ](https://github.com/BrianLoveGa/portfolio-improvements)
+💻[my portfolio ](https://github.com/BrianLoveGa/portfolio-improvements) via GH pages
 
 
 
@@ -34,38 +35,38 @@ __Current Projects__
 __links to portfolio project repos__
 
 
-[cheerups](https://github.com/BrianLoveGa/project-2-cheerupApp)
+💻[cheerups](https://github.com/BrianLoveGa/project-2-cheerupApp) via Heroku
 
 
 MEHN 
 crud on cheerups
 crud on account
 
-[rocks papers scissors lizards & spocks](https://github.com/BrianLoveGa/game-rock-paper-scissors)
+💻[rocks papers scissors lizards & spocks](https://github.com/BrianLoveGa/game-rock-paper-scissors) via GH Pages
 
 
 vanilla JS
 html
 
-dang good desserts zone [front end](https://github.com/esin87/ga-seir-project3-frontend) & [back end](https://github.com/esin87/ga-seir-project3)
+💻dang good desserts zone [front end](https://github.com/esin87/ga-seir-project3-frontend) via GH Pages & [back end](https://github.com/esin87/ga-seir-project3) via Heroku
 
 
 MERN
 full crud on recipies
 
-[simple > complex](https://github.com/BrianLoveGa/proj4-simple-over-complex)
+💻[simple > complex](https://github.com/BrianLoveGa/proj4-simple-over-complex) via GH Pages
 
 
 python JS
 react
 
-[space battle](https://github.com/BrianLoveGa/space-battle-game)
+💻[space battle](https://github.com/BrianLoveGa/space-battle-game) via GH Pages
 
 
 html js
 console log game
 
-[cool links](https://github.com/BrianLoveGa/cool-LinksPage)
+💻[cool links](https://github.com/BrianLoveGa/cool-LinksPage) via GH Pages
 
 
 html css
@@ -111,14 +112,18 @@ __work from not class__
 
 
 python django app
+
 full crud 
+
 first name, last name, nickname, birthday, email
 
 [hello gatsby](https://github.com/BrianLoveGa/all-the-fuss-about-gatsby)
 
 
 So what's all the fuss about this gatsby?
-like react but easier
+
+It's like react but easier
+
 basic static starter site
 
 
