@@ -97,7 +97,10 @@ python django app
 full crud 
 first name, last name, nickname, birthday, email
 
-
+[hello gatsby](https://github.com/BrianLoveGa/all-the-fuss-about-gatsby)
+So what's all the fuss about this gatsby?
+like react but easier
+basic static starter site
 
 
 *****
