@@ -181,3 +181,7 @@ To track fads over different decades
 decades - crud
 fads - crud
 
+more added soon
+
+calculator page
+fun with js page
