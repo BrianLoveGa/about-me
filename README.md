@@ -23,6 +23,8 @@ ______
 
 __Current Projects__
 
+💻[Bob's Burgers Trivia Game](https://github.com/BrianLoveGa/bobs_burgers_trivia/) via GH pages
+
 💻[simple > complex](https://github.com/BrianLoveGa/proj4-simple-over-complex) via GH pages
 
 [python koans](https://github.com/BrianLoveGa/python_koans)
@@ -34,6 +36,10 @@ __Current Projects__
 
 __links to portfolio project repos__
 
+💻[Bob's Burgers Trivia Game](https://github.com/BrianLoveGa/bobs_burgers_trivia/) via GH pages
+
+HTML, CSS, Vanilla JavaScript. Mobile Friendly. Dom Maniplulation, OOP, Loops. 
+
 
 💻[cheerups](https://github.com/BrianLoveGa/project-2-cheerupApp) via Heroku
 
@@ -44,7 +50,7 @@ crud on account
 
 💻[rocks papers scissors lizards & spocks](https://github.com/BrianLoveGa/game-rock-paper-scissors) via GH Pages
 
-
+now updated to no longer use prompts
 vanilla JS
 html
 
@@ -181,7 +187,7 @@ To track fads over different decades
 decades - crud
 fads - crud
 
-more added soon
+more content to be added soon
 
 calculator page
 fun with js page
