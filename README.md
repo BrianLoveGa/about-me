@@ -23,9 +23,11 @@ ______
 
 __Current Projects__
 
-💻[Bob's Burgers Trivia Game](https://github.com/BrianLoveGa/bobs_burgers_trivia/) via GH pages
+💻[Super facts for 'the big game'](https://brianlovega.github.io/super-fun-facts/) via GH pages
 
-💻[simple > complex](https://github.com/BrianLoveGa/proj4-simple-over-complex) via GH pages
+💻[Bob's Burgers Trivia Game](https://brianlovega.github.io//bobs_burgers_trivia/) via GH pages
+
+💻[simple > complex](brianlovega.github.io/proj4-simple-over-complex) via GH pages
 
 [python koans](https://github.com/BrianLoveGa/python_koans)
 
@@ -36,15 +38,26 @@ __Current Projects__
 
 __links to portfolio project repos__
 
+💻[Super facts for 'the big game'](https://github.com/BrianLoveGa/super-fun-facts) via GH pages
+
+HTML, CSS, Vanilla JavaScript. Mobile Friendly.
+
+
 💻[Bob's Burgers Trivia Game](https://github.com/BrianLoveGa/bobs_burgers_trivia/) via GH pages
 
 HTML, CSS, Vanilla JavaScript. Mobile Friendly. Dom Maniplulation, OOP, Loops. 
 
+💻dang good desserts zone [front end](https://github.com/esin87/ga-seir-project3-frontend) via GH Pages & [back end](https://github.com/esin87/ga-seir-project3) via Heroku
+
+
+MERN (mongoose, express, react, node)
+full crud on recipies
 
 💻[cheerups](https://github.com/BrianLoveGa/project-2-cheerupApp) via Heroku
 
 
-MEHN 
+MEHN (mongoose, express, handlebars, node)
+full crud on recipies
 crud on cheerups
 crud on account
 
@@ -54,11 +67,7 @@ now updated to no longer use prompts
 vanilla JS
 html
 
-💻dang good desserts zone [front end](https://github.com/esin87/ga-seir-project3-frontend) via GH Pages & [back end](https://github.com/esin87/ga-seir-project3) via Heroku
 
-
-MERN
-full crud on recipies
 
 💻[simple > complex](https://github.com/BrianLoveGa/proj4-simple-over-complex) via GH Pages
 
