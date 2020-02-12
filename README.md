@@ -12,24 +12,23 @@ Below are links to repos grouped accordingly.
 
 If the site is live you can access it from the read-me in the repo or with the link at the top.
 
-The 💻 denotes a live site. 
+The 💻 denotes a live site.
 
-------
+******
 
 💻[my current portfolio](https://brianlovega.github.io/portfolio-improvements/) via GH Pages
 
-
 💻[first portfolio site re-creation](https://brianloveless-copy.netlify.com/) via Netlify
 
-_Before I knew any better I bought a site through go-daddy. Here I have recreated / improved it
+Before I knew any better I bought a site through _go-daddy_. Here I have recreated / improved it
 
-Just check the console log errors between them. The original site is below._
+Just check the console log errors between them. The original site is below.
 
 💻[my first protfolio](www.brianloveless.com) via go-daddy
 
-______
+******
 
-__Current Projects__
+## Current Projects
 
 💻[Super facts for 'the big game'](https://brianlovega.github.io/super-fun-facts/) via GH pages
 
@@ -39,30 +38,30 @@ __Current Projects__
 
 [python koans](https://github.com/BrianLoveGa/python_koans)
 
-💻[my portfolio ](https://github.com/BrianLoveGa/portfolio-improvements) via GH pages
+💻[my portfolio](https://github.com/BrianLoveGa/portfolio-improvements) via GH pages
 
+[Demo FrontEnd for Teach-X](https://github.com/BrianLoveGa/TEACH-X_frontend_demo)
 
+creating a live semi functioning demo of the page idea for a code for Atlanta project.
 
+******
 
-__links to portfolio project repos__
+## Links to portfolio project repos
 
 💻[Super facts for 'the big game'](https://github.com/BrianLoveGa/super-fun-facts) via GH pages
 
 HTML, CSS, Vanilla JavaScript. Mobile Friendly.
 
-
 💻[Bob's Burgers Trivia Game](https://github.com/BrianLoveGa/bobs_burgers_trivia/) via GH pages
 
-HTML, CSS, Vanilla JavaScript. Mobile Friendly. Dom Maniplulation, OOP, Loops. 
+HTML, CSS, Vanilla JavaScript. Mobile Friendly. Dom Maniplulation, OOP, Loops.
 
 💻dang good desserts zone [front end](https://github.com/esin87/ga-seir-project3-frontend) via GH Pages & [back end](https://github.com/esin87/ga-seir-project3) via Heroku
-
 
 MERN (mongoose, express, react, node)
 full crud on recipies
 
 💻[cheerups](https://github.com/BrianLoveGa/project-2-cheerupApp) via Heroku
-
 
 MEHN (mongoose, express, handlebars, node)
 full crud on recipies
@@ -75,32 +74,23 @@ now updated to no longer use prompts
 vanilla JS
 html
 
-
-
 💻[simple > complex](https://github.com/BrianLoveGa/proj4-simple-over-complex) via GH Pages
-
 
 python JS
 react
 
 💻[space battle](https://github.com/BrianLoveGa/space-battle-game) via GH Pages
 
-
 html js
 console log game
 
 💻[cool links](https://github.com/BrianLoveGa/cool-LinksPage) via GH Pages
 
-
 html css
-
-
-__MORE COMING SOON__
-
 
 ******
 
-__here are links to open source contributions__
+## here are links to open source contributions
 
 twillo [pixel art](https://github.com/BrianLoveGa/open-pixel-art)
 
@@ -112,46 +102,36 @@ twillo [pixel art](https://github.com/BrianLoveGa/open-pixel-art)
 
 [inspire quotes](https://github.com/BrianLoveGa/inspirational-quotes)
 
-
-
-
-****
+******
 __code-challenges__
 where I am practicing code challenges to stay sharp
 
-
-JS and PY
+JavaScript and Python
 
 [repo here](https://github.com/BrianLoveGa/code_work)
 
-
 code challenges some from code wars
 
-****
+******
+[Bobs Burgers character API](https://github.com/BrianLoveGa/burgers_json_backend)
 
-__work from not class__
+Express backend framework API for characters from the TV show Bobs Burgers
 
 [spam](https://github.com/BrianLoveGa/python_practice_spam)
 
-
 python django app
 
-full crud 
+full crud
 
 first name, last name, nickname, birthday, email
 
 [hello gatsby](https://github.com/BrianLoveGa/all-the-fuss-about-gatsby)
-
 
 So what's all the fuss about this gatsby?
 
 It's like react but easier
 
 basic static starter site
-
-
-*****
-__old class work__
 
 [dougie the doughnut](https://github.com/BrianLoveGa/douggie-the-doughnut-adventure/tree/master/donut_adventure)
 writing a console log comic book in JS
@@ -168,10 +148,13 @@ basigc game created with vanilla JS
 + Use a template literal to display data from an fetch call on your HTML page
 + Use the Google Maps API to embed a map
 
-
 [generic compliment page](https://github.com/BrianLoveGa/compliments-needed-page)
 MEHN
-+ When you visit the root ("localhost:YOURPORT/") of your app, it should display a generic greeting and a randomly chosen compliment. The background color of the app should be randomized as well.
+
++ When you visit the root ("localhost:YOURPORT/") of your app, it should display a generic greeting and a randomly chosen compliment.
+
++ The background color of the app should be randomized as well.
+
 + When you visit "/:name" (ie: "localhost:YOURPORT/randy"), the greeting should personalize itself to the provided name. There should still be a random compliment and background color.
 
 [out of this world restaurants](https://github.com/BrianLoveGa/out-of-this-world)
@@ -205,6 +188,3 @@ decades - crud
 fads - crud
 
 more content to be added soon
-
-calculator page
-fun with js page
