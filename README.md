@@ -99,30 +99,6 @@ console log game
 html css
 
 ******
-
-## here are links to open source contributions
-
-twillo [pixel art](https://github.com/BrianLoveGa/open-pixel-art)
-
-[movie quotes](https://github.com/BrianLoveGa/popular-movie-quotes)
-
-[dog api](https://github.com/BrianLoveGa/dog-api-images)
-
-[emoji screen](https://github.com/BrianLoveGa/emojiscreen)
-
-[inspire quotes](https://github.com/BrianLoveGa/inspirational-quotes)
-
-******
-__code-challenges__
-where I am practicing code challenges to stay sharp
-
-JavaScript and Python
-
-[repo here](https://github.com/BrianLoveGa/code_work)
-
-code challenges some from code wars
-
-******
 Projects not yet protfolio worthy but working
 
 💻 [Mexi-Italian Dish Generator](https://jovial-euclid-b4f229.netlify.com/) Netlify
@@ -140,6 +116,10 @@ python django app
 full crud
 
 first name, last name, nickname, birthday, email
+
+[weather check](https://github.com/BrianLoveGa/weather-vanilla-js)
+
++ Using open weather Api to fetch real time data and display results to user via HTML
 
 [hello gatsby](https://github.com/BrianLoveGa/all-the-fuss-about-gatsby)
 
@@ -202,5 +182,27 @@ Python Django models views templates
 To track fads over different decades
 decades - crud
 fads - crud
+******
 
+## here are links to open source contributions
+
+twillo [pixel art](https://github.com/BrianLoveGa/open-pixel-art)
+
+[movie quotes](https://github.com/BrianLoveGa/popular-movie-quotes)
+
+[dog api](https://github.com/BrianLoveGa/dog-api-images)
+
+[emoji screen](https://github.com/BrianLoveGa/emojiscreen)
+
+[inspire quotes](https://github.com/BrianLoveGa/inspirational-quotes)
+
+******
+__code-challenges__
+where I am practicing code challenges to stay sharp
+
+JavaScript and Python
+
+[repo here](https://github.com/BrianLoveGa/code_work)
+
+code challenges some from code wars
 more content to be added soon
