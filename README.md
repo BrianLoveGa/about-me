@@ -52,6 +52,8 @@ Just check the console log errors between them. The original site is below.
 
 creating a live semi functioning demo of the page idea for a code for Atlanta project.
 
+💻 [Mexi-Italian Dish Generator](https://jovial-euclid-b4f229.netlify.com/) Netlify
+
 ******
 
 ## Links to portfolio project repos
@@ -121,6 +123,12 @@ JavaScript and Python
 code challenges some from code wars
 
 ******
+Projects not yet protfolio worthy but working
+
+💻 [Mexi-Italian Dish Generator](https://jovial-euclid-b4f229.netlify.com/) Netlify
+
+HTML, JS, CSS, Dom manipulation - click to see a tasty dish of mexican food or italian food or a combo.
+
 [Bobs Burgers character API](https://github.com/BrianLoveGa/burgers_json_backend)
 
 Express backend framework API for characters from the TV show Bobs Burgers
