@@ -18,7 +18,9 @@ For the record I graduated General Assembly Software Engineering Immersive Boot-
 
 I have completed the Free Code Camp JavaScript Algorithms & Data Structures AND Responsive Web Design
 
-I am working at the ATBS with Python thru Udemy[repo here](https://github.com/BrianLoveGa/atbs-python)
+I am working at the ATBS with Python thru Udemy [repo here](https://github.com/BrianLoveGa/atbs-python)
+
+[GeneralAssemb.ly](https://profiles.generalassemb.ly/profiles/brian-loveless) [F.C.C. JS](https://www.freecodecamp.org/certification/fcc834d7277-a991-4083-bda5-6372b69a9f1e/javascript-algorithms-and-data-structures) [F.C.C. Web](https://www.freecodecamp.org/certification/fcc834d7277-a991-4083-bda5-6372b69a9f1e/responsive-web-design)
 
 ******
 
