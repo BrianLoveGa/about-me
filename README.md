@@ -14,6 +14,12 @@ If the site is live you can access it from the read-me in the repo or with the l
 
 The 💻 denotes a live site.
 
+For the record I graduated General Assembly Software Engineering Immersive Boot-Camp.
+
+I have completed the Free Code Camp JavaScript Algorithms & Data Structures AND Responsive Web Design
+
+I am working at the ATBS with Python thru Udemy[repo here](https://github.com/BrianLoveGa/atbs-python)
+
 ******
 
 💻[my current portfolio](https://brianlovega.github.io/portfolio-improvements/) via GH Pages
