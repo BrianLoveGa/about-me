@@ -4,9 +4,15 @@
 
 __Recruiters, Employers, Job offers _-_ Start Here__
 
-My git is a bit cluttered at the moment. Since I am not sure where the job search will lead me and what of all this info is relevant let me be your guide.
-Below are links to repos grouped accordingly. If the site is live you can access it from the read-me in the repo or with the link at the top.
-The 💻 denotes a live site.
+My git is a bit cluttered at the moment.
+
+My sincere apologies ... let me be your guide.
+
+Below are links to repos grouped accordingly.
+
+If the site is live you can access it from the read-me in the repo or with the link at the top.
+
+The 💻 denotes a live site. 
 
 ------
 
@@ -15,7 +21,9 @@ The 💻 denotes a live site.
 
 💻[first portfolio site re-creation](https://brianloveless-copy.netlify.com/) via Netlify
 
-_Before I knew any better I bought a site through go-daddy. Here I have recreated / improved it. Just check the console log errors between them. The original site is below._
+_Before I knew any better I bought a site through go-daddy. Here I have recreated / improved it
+
+Just check the console log errors between them. The original site is below._
 
 💻[my first protfolio](www.brianloveless.com) via go-daddy
 
