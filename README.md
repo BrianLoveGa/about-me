@@ -12,15 +12,22 @@ Below are links to repos grouped accordingly.
 
 If the site is live you can access it from the read-me in the repo or with the link at the top.
 
-The 💻 denotes a live site.
+The 💻 denotes a live site I created.
 
-For the record I graduated General Assembly Software Engineering Immersive Boot-Camp.
+For the record I have a Bachelor's Degree in Managerial Science from Georgi State university.
 
-I have completed the Free Code Camp JavaScript Algorithms & Data Structures AND Responsive Web Design
+I have graduated from General Assembly's Software Engineering Immersive Boot-Camp.
 
-I am working at the ATBS with Python thru Udemy [repo here](https://github.com/BrianLoveGa/atbs-python)
+[GeneralAssemb.ly](https://profiles.generalassemb.ly/profiles/brian-loveless)
 
-[GeneralAssemb.ly](https://profiles.generalassemb.ly/profiles/brian-loveless) _-+-_ [F.C.C. JS](https://www.freecodecamp.org/certification/fcc834d7277-a991-4083-bda5-6372b69a9f1e/javascript-algorithms-and-data-structures)  _-+-_ [F.C.C. Web](https://www.freecodecamp.org/certification/fcc834d7277-a991-4083-bda5-6372b69a9f1e/responsive-web-design)
+I have completed the Free Code Camp JavaScript Algorithms & Data Structures AND Responsive Web Design and am working on all the rest.
+
+[F.C.C. JS](https://www.freecodecamp.org/certification/fcc834d7277-a991-4083-bda5-6372b69a9f1e/javascript-algorithms-and-data-structures)
+
+[F.C.C. Web](https://www.freecodecamp.org/certification/fcc834d7277-a991-4083-bda5-6372b69a9f1e/responsive-web-design)
+
+I am also working on ATBS (Automate the Boring Stuff) with Python course thru Udemy [repo here](https://github.com/BrianLoveGa/atbs-python)
+Over half-way done and nothing is boring yet.
 
 ******
 
@@ -44,8 +51,6 @@ Just check the console log errors between them. The original site is below.
 
 💻[simple > complex](brianlovega.github.io/proj4-simple-over-complex) via GH pages
 
-[python koans](https://github.com/BrianLoveGa/python_koans)
-
 💻[my portfolio](https://github.com/BrianLoveGa/portfolio-improvements) via GH pages
 
 [Demo FrontEnd for Teach-X](https://github.com/BrianLoveGa/TEACH-X_frontend_demo)
@@ -58,7 +63,11 @@ creating a live semi functioning demo of the page idea for a code for Atlanta pr
 
 ## Links to portfolio project repos
 
-💻[Super facts for 'the big game'](https://github.com/BrianLoveGa/super-fun-facts) via GH pages
+💻[Pixel Art Live](https://brianlovega.github.io/hasura-tutorial/) a drawing multiplayer 'game' via GH pages and Heroku
+
+React front-end deployed on GitHub, Hasura GraphQL API backend deployed on Heroku. Websockets for live updates from any users on the site worldwide in realtime. Mobile friendly.
+
+💻[Super facts for 'the big game'](https://github.com/BrianLoveGa/super-fun-facts/) via GH pages
 
 HTML, CSS, Vanilla JavaScript. Mobile Friendly.
 
@@ -69,20 +78,21 @@ HTML, CSS, Vanilla JavaScript. Mobile Friendly. Dom Maniplulation, OOP, Loops.
 💻dang good desserts zone [front end](https://github.com/esin87/ga-seir-project3-frontend) via GH Pages & [back end](https://github.com/esin87/ga-seir-project3) via Heroku
 
 MERN (mongoose, express, react, node)
-full crud on recipies
+
+full CRUD on recipies with RESTful routes
 
 💻[cheerups](https://github.com/BrianLoveGa/project-2-cheerupApp) via Heroku
 
 MEHN (mongoose, express, handlebars, node)
-full crud on recipies
-crud on cheerups
-crud on account
+
+crud on cheerups and crud on account with RESTful routes
 
 💻[rocks papers scissors lizards & spocks](https://github.com/BrianLoveGa/game-rock-paper-scissors) via GH Pages
 
 now updated to no longer use prompts
 vanilla JS
 html
+mobile friendly css
 
 💻[simple > complex](https://github.com/BrianLoveGa/proj4-simple-over-complex) via GH Pages
 
@@ -123,11 +133,7 @@ first name, last name, nickname, birthday, email
 
 [hello gatsby](https://github.com/BrianLoveGa/all-the-fuss-about-gatsby)
 
-So what's all the fuss about this gatsby?
-
-It's like react but easier
-
-basic static starter site
+[python koans](https://github.com/BrianLoveGa/python_koans)
 
 [dougie the doughnut](https://github.com/BrianLoveGa/douggie-the-doughnut-adventure/tree/master/donut_adventure)
 writing a console log comic book in JS
