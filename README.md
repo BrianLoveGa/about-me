@@ -14,13 +14,19 @@ If the site is live you can access it from the read-me in the repo or with the l
 
 The 💻 denotes a live site I created.
 
-For the record I have a Bachelor's Degree in Managerial Science from Georgi State university.
+For the record I have a Bachelor's Degree in Managerial Science from Georgia State University.
+
+I am currently employed with Talent Path. Please reach out to them regarding my avaliability for your project.
 
 I have graduated from General Assembly's Software Engineering Immersive Boot-Camp.
 
 [GeneralAssemb.ly](https://profiles.generalassemb.ly/profiles/brian-loveless)
 
-I have completed the Free Code Camp JavaScript Algorithms & Data Structures AND Responsive Web Design and am working on all the rest.
+I have recently completed an EDX.org course on Java Object Oriented Programming.
+
+[EDX OOP JAVA](https://courses.edx.org/certificates/db55972a3dc0475baaccb11f82c02fa2)
+
+I have completed the Free Code Camp JavaScript Algorithms & Data Structures AND Responsive Web Design.
 
 [F.C.C. JS](https://www.freecodecamp.org/certification/fcc834d7277-a991-4083-bda5-6372b69a9f1e/javascript-algorithms-and-data-structures)
 
@@ -31,89 +37,73 @@ Over half-way done and nothing is boring yet.
 
 ******
 
-💻[my current portfolio](https://brianlovega.github.io/portfolio-improvements/) via GH Pages
+💻_-_[my current portfolio](https://brianlovega.github.io/portfolio-improvements/) via GH Pages
 
-💻[first portfolio site re-creation](https://brianloveless-copy.netlify.com/) via Netlify
+💻_-_[first portfolio site re-creation](https://brianloveless-copy.netlify.com/) via Netlify
 
 Before I knew any better I bought a site through _go-daddy_. Here I have recreated / improved it
 
 Just check the console log errors between them. The original site is below.
 
-💻[my first protfolio](www.brianloveless.com) via go-daddy
+💻_-_[my first protfolio](www.brianloveless.com) via go-daddy
 
 ******
 
-## Current Projects
+## Recent Projects
 
-💻[Super facts for 'the big game'](https://brianlovega.github.io/super-fun-facts/) via GH pages
+💻_-_[Super facts for 'the big game'](https://brianlovega.github.io/super-fun-facts/) via GH pages
 
-💻[Bob's Burgers Trivia Game](https://brianlovega.github.io//bobs_burgers_trivia/) via GH pages
+💻_-_[Bob's Burgers Trivia Game](https://brianlovega.github.io//bobs_burgers_trivia/) via GH pages
 
-💻[simple > complex](brianlovega.github.io/proj4-simple-over-complex) via GH pages
+💻_-_[Code Compare](https://brianlovega.github.io/talentPathCapstone) via GH pages
 
-💻[my portfolio](https://github.com/BrianLoveGa/portfolio-improvements) via GH pages
+💻_-_[my portfolio](https://github.com/BrianLoveGa/portfolio-improvements) via GH pages
 
 [Demo FrontEnd for Teach-X](https://github.com/BrianLoveGa/TEACH-X_frontend_demo)
 
 creating a live semi functioning demo of the page idea for a code for Atlanta project.
 
-💻 [Mexi-Italian Dish Generator](https://jovial-euclid-b4f229.netlify.com/) Netlify
+[Mexi-Italian Dish Generator](https://jovial-euclid-b4f229.netlify.com/) Netlify
 
-******
-
-## Links to portfolio project repos
-
-💻[Pixel Art Live](https://brianlovega.github.io/hasura-tutorial/) a drawing multiplayer 'game' via GH pages and Heroku
+💻_-_[Pixel Art Live](https://brianlovega.github.io/hasura-tutorial/) a drawing multiplayer 'game' via GH pages and Heroku
 
 React front-end deployed on GitHub, Hasura GraphQL API backend deployed on Heroku. Websockets for live updates from any users on the site worldwide in realtime. Mobile friendly.
 
-💻[Super facts for 'the big game'](https://github.com/BrianLoveGa/super-fun-facts/) via GH pages
-
-HTML, CSS, Vanilla JavaScript. Mobile Friendly.
-
-💻[Bob's Burgers Trivia Game](https://github.com/BrianLoveGa/bobs_burgers_trivia/) via GH pages
-
-HTML, CSS, Vanilla JavaScript. Mobile Friendly. Dom Maniplulation, OOP, Loops.
-
-💻dang good desserts zone [front end](https://github.com/esin87/ga-seir-project3-frontend) via GH Pages & [back end](https://github.com/esin87/ga-seir-project3) via Heroku
+💻_-_ dang good desserts zone [front end](https://github.com/esin87/ga-seir-project3-frontend) via GH Pages & [back end](https://github.com/esin87/ga-seir-project3) via Heroku
 
 MERN (mongoose, express, react, node)
 
 full CRUD on recipies with RESTful routes
 
-💻[cheerups](https://github.com/BrianLoveGa/project-2-cheerupApp) via Heroku
+💻_-_ [cheerups](https://github.com/BrianLoveGa/project-2-cheerupApp) via Heroku
 
 MEHN (mongoose, express, handlebars, node)
 
 crud on cheerups and crud on account with RESTful routes
 
-💻[rocks papers scissors lizards & spocks](https://github.com/BrianLoveGa/game-rock-paper-scissors) via GH Pages
+💻_-_ [rocks papers scissors lizards & spocks](https://github.com/BrianLoveGa/game-rock-paper-scissors) via GH Pages
 
 now updated to no longer use prompts
 vanilla JS
 html
 mobile friendly css
 
-💻[simple > complex](https://github.com/BrianLoveGa/proj4-simple-over-complex) via GH Pages
+💻_-_ [simple > complex](https://github.com/BrianLoveGa/proj4-simple-over-complex) via GH Pages
 
 python JS
 react
 
-💻[space battle](https://github.com/BrianLoveGa/space-battle-game) via GH Pages
+💻_-_ [space battle](https://github.com/BrianLoveGa/space-battle-game) via GH Pages
 
 html js
 console log game
 
-💻[cool links](https://github.com/BrianLoveGa/cool-LinksPage) via GH Pages
+💻_-_ [cool links](https://github.com/BrianLoveGa/cool-LinksPage) via GH Pages
 
 html css
 
 ******
-Projects not yet protfolio worthy but working
-
-💻 [Mexi-Italian Dish Generator](https://jovial-euclid-b4f229.netlify.com/) Netlify
-
-HTML, JS, CSS, Dom manipulation - click to see a tasty dish of mexican food or italian food or a combo.
+Other Projects 
 
 [Bobs Burgers character API](https://github.com/BrianLoveGa/burgers_json_backend)
 
@@ -192,6 +182,8 @@ fads - crud
 
 ## here are links to open source contributions
 
+The Majority of these were completed during October 2019 'Hack-Tober-Fest' sponsored by Digital Ocean
+
 twillo [pixel art](https://github.com/BrianLoveGa/open-pixel-art)
 
 [movie quotes](https://github.com/BrianLoveGa/popular-movie-quotes)
@@ -211,4 +203,4 @@ JavaScript and Python
 [repo here](https://github.com/BrianLoveGa/code_work)
 
 code challenges some from code wars
-more content to be added soon
+
