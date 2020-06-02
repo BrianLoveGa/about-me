@@ -16,7 +16,7 @@ The 💻 denotes a live site I created.
 
 For the record I have a Bachelor's Degree in Managerial Science from Georgia State University.
 
-I am currently employed with Talent Path. Please reach out to them regarding my avaliability for your project.
+I am currently employed with Talent Path. Please reach out to them regarding my avaliability for your project [here](https://talentpath.com/hire-work-ready-talent/).
 
 I have graduated from General Assembly's Software Engineering Immersive Boot-Camp.
 
@@ -51,13 +51,13 @@ Just check the console log errors between them. The original site is below.
 
 ## Recent Projects
 
+💻_-_[Code Compare](https://brianlovega.github.io/talentPathCapstone) via GH pages
+
 💻_-_[Super facts for 'the big game'](https://brianlovega.github.io/super-fun-facts/) via GH pages
 
 💻_-_[Bob's Burgers Trivia Game](https://brianlovega.github.io//bobs_burgers_trivia/) via GH pages
 
-💻_-_[Code Compare](https://brianlovega.github.io/talentPathCapstone) via GH pages
-
-💻_-_[my portfolio](https://github.com/BrianLoveGa/portfolio-improvements) via GH pages
+💻_-_[my current portfolio code](https://github.com/BrianLoveGa/portfolio-improvements) via GH pages
 
 [Demo FrontEnd for Teach-X](https://github.com/BrianLoveGa/TEACH-X_frontend_demo)
 
@@ -69,13 +69,13 @@ creating a live semi functioning demo of the page idea for a code for Atlanta pr
 
 React front-end deployed on GitHub, Hasura GraphQL API backend deployed on Heroku. Websockets for live updates from any users on the site worldwide in realtime. Mobile friendly.
 
-💻_-_ dang good desserts zone [front end](https://github.com/esin87/ga-seir-project3-frontend) via GH Pages & [back end](https://github.com/esin87/ga-seir-project3) via Heroku
+💻_-_ Dang - Good Desserts Zone [Live Site](https://esin87.github.io/)[front end code](https://github.com/esin87/ga-seir-project3-frontend) via GH Pages & [back end code](https://github.com/esin87/ga-seir-project3) via Heroku
 
 MERN (mongoose, express, react, node)
 
 full CRUD on recipies with RESTful routes
 
-💻_-_ [cheerups](https://github.com/BrianLoveGa/project-2-cheerupApp) via Heroku
+💻_-_ [Cheer-Ups Site](https://bl-cheer-ups-app.herokuapp.com/cheerUps)[cheerups code](https://github.com/BrianLoveGa/project-2-cheerupApp) via Heroku
 
 MEHN (mongoose, express, handlebars, node)
 
@@ -103,7 +103,7 @@ console log game
 html css
 
 ******
-Other Projects 
+Other Projects
 
 [Bobs Burgers character API](https://github.com/BrianLoveGa/burgers_json_backend)
 
