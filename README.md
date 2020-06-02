@@ -14,7 +14,7 @@ This 💻 denotes a live site I created.
 
 For the record, I have a Bachelor's Degree in Managerial Science from Georgia State University.
 
-I am currently employed with Talent Path. Please reach out to them regarding my availability for your project [here](https://talentpath.com/hire-work-ready-talent/).
+I am currently employed with [Talent Path](https://talentpath.com/). Please reach out to them regarding my availability for your project [here](https://talentpath.com/hire-work-ready-talent/).
 
 I have graduated from General Assembly's Software Engineering Immersive Boot-Camp.
 
