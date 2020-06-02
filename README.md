@@ -66,7 +66,7 @@ A 'Code for Atlanta' project.
 
 React front-end deployed on GitHub, Hasura GraphQL API backend deployed on Heroku. Websockets for live updates from any users on the site worldwide in realtime. Mobile friendly.
 
-💻*-* Dang - Good Desserts Zone [Live Site](https://esin87.github.io/)[front end code](https://github.com/esin87/ga-seir-project3-frontend) via GH Pages & [back end code](https://github.com/esin87/ga-seir-project3) via Heroku
+💻*-* Dang - Good Desserts Zone [Live Site](https://esin87.github.io/) .._-_.. [front end code](https://github.com/esin87/ga-seir-project3-frontend) via GH Pages & [back end code](https://github.com/esin87/ga-seir-project3) via Heroku
 
 MERN (mongoose, express, react, node)
 
@@ -83,7 +83,7 @@ full crud on cheerups and accounts with RESTful routes
 now updated to no longer use prompts
 vanilla JS
 HTML
-mobile friendly CSS
+mobile-friendly CSS
 
 💻*-* [simple > complex](https://github.com/BrianLoveGa/proj4-simple-over-complex) via GH Pages
 
@@ -103,9 +103,9 @@ HTML CSS only - no JS no J-Query
 
 Other Projects
 
-[Bobs Burgers character API](https://github.com/BrianLoveGa/burgers_json_backend)
+[Bob's Burgers character API](https://github.com/BrianLoveGa/burgers_json_backend)
 
-Express backend framework API for characters from the TV show Bobs Burgers.
+Express backend framework API for characters from the TV show Bob's Burgers.
 
 [spam](https://github.com/BrianLoveGa/python_practice_spam)
 
@@ -117,7 +117,7 @@ first name, last name, nickname, birthday, email
 
 [weather check](https://github.com/BrianLoveGa/weather-vanilla-js)
 
-- Using open weather Api to fetch real-time data and display results to user via HTML
+- Using open weather API to fetch real-time data and display results to the user via HTML.
 
 [hello Gatsby](https://github.com/BrianLoveGa/all-the-fuss-about-gatsby)
 
@@ -172,6 +172,7 @@ use SQL to find Carmen Sandiego
 use SQL on old NFL player data
 
 [Nostaldja](https://github.com/BrianLoveGa/Nostaldja)
+The name is a play on nostalgia plus Django not a typo.
 Python Django models views and templates
 To track fads over different decades
 crud for fads and decades
@@ -182,7 +183,7 @@ crud for fads and decades
 
 The Majority of these were completed during October 2019 'Hack-Tober-Fest' sponsored by Digital Ocean
 
-twillo [pixel art](https://github.com/BrianLoveGa/open-pixel-art)
+Twillo [pixel art](https://github.com/BrianLoveGa/open-pixel-art)
 
 [movie quotes](https://github.com/BrianLoveGa/popular-movie-quotes)
 
