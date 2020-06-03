@@ -16,6 +16,8 @@ For the record, I have a Bachelor's Degree in Managerial Science from Georgia St
 
 I am currently employed with [Talent Path](https://talentpath.com/). Please reach out to them regarding my availability for your project [here](https://talentpath.com/hire-work-ready-talent/).
 
+I recieved the Acclaim Credly certification as a [Software Engineer Full Stack Developer](https://www.youracclaim.com/badges/9c5d9183-9052-4d40-bf4e-a278fe072565/linked_in_profile) through their training. 
+
 I have graduated from General Assembly's Software Engineering Immersive Boot-Camp.
 
 [GeneralAssemb.ly](https://profiles.generalassemb.ly/profiles/brian-loveless)
