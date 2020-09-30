@@ -4,9 +4,7 @@
 
 **Recruiters, Employers, Job offers _-_ Start Here**
 
-My git is a bit cluttered at the moment.
-
-My sincere apologies ... let me be your guide.
+Let me be your guide to this git repo.
 
 Below are links to repositories grouped accordingly.
 
@@ -35,57 +33,79 @@ I have completed the Free Code Camp JavaScript Algorithms & Data Structures AND 
 I am also working on ATBS (Automate the Boring Stuff) with Python a course through Udemy [repo here](https://github.com/BrianLoveGa/atbs-python)
 
 ---
-
-💻*-*[my current portfolio](https://brianlovega.github.io/portfolio-improvements/) via GH Pages
-
-💻*-*[first portfolio site re-creation](https://brianloveless-copy.netlify.com/) via Netlify
+__Portfolios__
 
 Before I knew any better I bought a site through _go-daddy_. Here I have recreated / improved it
+
+💻*-*[first portfolio site re-creation](https://brianloveless-copy.netlify.com/) via Netlify
 
 Just check the console log errors between them. The original site is below.
 
 💻*-*[my first portfolio](www.brianloveless.com) via go-daddy
 
+Below is a work in progress of a react based portfolio.
+
+💻*-*[my current portfolio](https://brianlovega.github.io/portfolio-improvements/) via GH Pages
+
 ---
 
 ## Recent Projects
 
+[Earth BnB](https://github.com/BrianLoveGa/client-EarthBnB) - the team re-created a
+vacation rental site to mimic that other one. There is a video link in the readme. 
+I created the 'main listing photo gallery' and 'modal gallery' as well as the 'things to do' components on the client side. I also created all the routes and seed data for these on our server side.[Earth BnB Server](https://github.com/Quaran-Team/server-EarthBnB) 
+
+Tech Stack: Angular client, Java Spring Boot Server, MYSQL database.
+
+[Amazin'](https://github.com/BrianLoveGa/client-Amazin) - the team re-created an 
+onlne shopping product page like that one named after the big river. Video Links in the readme. I created the 'star rating' and 'star chart modal' components as well as the headers and footers for the page. I also created all the routes and seed data for these on our server side.[Amazin' Server](https://github.com/Quaran-Team/server-Amazin) 
+
+Tech Stack: Angular client, Java Spring Boot Server, PostgreSQL database.
+
+[Head Shots App](https://headshot.talentpath.io/) [code](https://github.com/BrianLoveGa/headShotsSiteforTP)
+Since the pandemic has shut down going to the office to get professional headshots we created an app / website that helps you take a professional photo at home, remove the background, save it to your device (phone or computer) and allows you to keep calm and carry on.
+
+Tech Stack : React, BG-remove API.
+
 💻*-*[Code Compare](https://brianlovega.github.io/talentPathCapstone) via GH pages
+
+Tech Stack: HTML, CSS, JavaScript
 
 💻*-*[Super facts for 'the big game'](https://brianlovega.github.io/super-fun-facts/) via GH pages
 
+Tech Stack: HTML, CSS, JavaScript
+
 💻*-*[Bob's Burgers Trivia Game](https://brianlovega.github.io//bobs_burgers_trivia/) via GH pages
 
-💻*-*[my current portfolio code](https://github.com/BrianLoveGa/portfolio-improvements) via GH pages
-
-[Demo FrontEnd for Teach-X](https://github.com/BrianLoveGa/TEACH-X_frontend_demo)
-
-A 'Code for Atlanta' project.
-
-[Mexi-Italian Dish Generator](https://jovial-euclid-b4f229.netlify.com/) Netlify
+Tech Stack: HTML, CSS, JavaScript
 
 💻*-*[Pixel Art Live](https://brianlovega.github.io/hasura-tutorial/) a drawing multiplayer 'game' via GH pages and Heroku
 
-React front-end deployed on GitHub, Hasura GraphQL API backend deployed on Heroku. Websockets for live updates from any users on the site worldwide in realtime. Mobile friendly.
+Tech Stack: React front-end deployed on GitHub, Hasura GraphQL API backend deployed on Heroku. Websockets for live updates from any users on the site worldwide in realtime. Mobile friendly.
 
 💻*-* Dang - Good Desserts Zone [Live Site](https://esin87.github.io/) .._-_.. [front end code](https://github.com/esin87/ga-seir-project3-frontend) via GH Pages & [back end code](https://github.com/esin87/ga-seir-project3) via Heroku
 
-MERN (mongoose, express, react, node)
+Tech Stack: MERN (mongoose, express, react, node)
 
 full CRUD on recipes with RESTful routes
 
 💻*-* [Cheer-Ups Site](https://bl-cheer-ups-app.herokuapp.com/cheerUps)[cheerups code](https://github.com/BrianLoveGa/project-2-cheerupApp) via Heroku
 
-MEHN (mongoose, express, handlebars, node)
+Tech Stack: MEHN (mongoose, express, handlebars, node)
 
 full crud on cheerups and accounts with RESTful routes
 
 💻*-* [rocks papers scissors lizards & Spocks](https://github.com/BrianLoveGa/game-rock-paper-scissors) via GH Pages
 
 now updated to no longer use prompts
-vanilla JS
-HTML
-mobile-friendly CSS
+Tech Stack: vanilla JavaScript, HTML, mobile-friendly CSS
+
+[Demo FrontEnd for Teach-X](https://github.com/BrianLoveGa/TEACH-X_frontend_demo)
+
+A 'Code for Atlanta' project.
+
+💻*-*[Mexi-Italian Dish Generator](https://jovial-euclid-b4f229.netlify.com/) Netlify
+
 
 💻*-* [simple > complex](https://github.com/BrianLoveGa/proj4-simple-over-complex) via GH Pages
 
@@ -103,7 +123,9 @@ HTML CSS only - no JS no J-Query
 
 ---
 
-Other Projects
+Other Projects and thngs in the works :
+
+
 
 [Bob's Burgers character API](https://github.com/BrianLoveGa/burgers_json_backend)
 
@@ -121,7 +143,6 @@ first name, last name, nickname, birthday, email
 
 - Using open weather API to fetch real-time data and display results to the user via HTML.
 
-[hello Gatsby](https://github.com/BrianLoveGa/all-the-fuss-about-gatsby)
 
 [Python koans](https://github.com/BrianLoveGa/python_koans)
 
@@ -200,7 +221,7 @@ Twillo [pixel art](https://github.com/BrianLoveGa/open-pixel-art)
 **code-challenges**
 where I am practicing code challenges to stay sharp
 
-JavaScript and Python
+JavaScript and Python and Java now too
 
 [repo here](https://github.com/BrianLoveGa/code_work)
 
