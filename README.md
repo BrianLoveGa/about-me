@@ -62,6 +62,12 @@ onlne shopping product page like that one named after the big river. Video Links
 
 Tech Stack: Angular client, Java Spring Boot Server, PostgreSQL database.
 
+[Pen - E - Pals](https://github.com/BrianLoveGa/frontend-Pen-E-Pals) - 
+a site idea for those lonely from quarantine to reach out and make connections. 
+
+Tech Stack : Angular Client, Java Spring Boot Server, SQlite3 database.
+
+
 [Head Shots App](https://headshot.talentpath.io/) [code](https://github.com/BrianLoveGa/headShotsSiteforTP)
 Since the pandemic has shut down going to the office to get professional headshots we created an app / website that helps you take a professional photo at home, remove the background, save it to your device (phone or computer) and allows you to keep calm and carry on.
 
@@ -70,6 +76,8 @@ Tech Stack : React, BG-remove API.
 💻*-*[Code Compare](https://brianlovega.github.io/talentPathCapstone) via GH pages
 
 Tech Stack: HTML, CSS, JavaScript
+recently added how to videos for the tip calculator portion:
+https://www.youtube.com/playlist?list=PLkllGfnqCkYWynrqxhlAxwSw-ArTPjyns
 
 💻*-*[Super facts for 'the big game'](https://brianlovega.github.io/super-fun-facts/) via GH pages
 
