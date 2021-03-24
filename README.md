@@ -12,7 +12,7 @@ This 💻 denotes a live site I created.
 
 For the record, I have a Bachelor's Degree in Managerial Science from Georgia State University.
 
-I am currently employed with [Talent Path](https://talentpath.com/). Please reach out to them regarding my availability for your project [here](https://talentpath.com/hire-work-ready-talent/).
+My most recent experience was with [Talent Path](https://talentpath.com/) as a Full Stack Developer Consultant. 
 
 I recieved the Acclaim Credly certification as a [Software Engineer Full Stack Developer](https://www.youracclaim.com/badges/9c5d9183-9052-4d40-bf4e-a278fe072565/linked_in_profile) through their training. 
 
@@ -30,18 +30,14 @@ I have completed the Free Code Camp JavaScript Algorithms & Data Structures AND 
 
 [F.C.C. Web](https://www.freecodecamp.org/certification/fcc834d7277-a991-4083-bda5-6372b69a9f1e/responsive-web-design)
 
-I am also working on ATBS (Automate the Boring Stuff) with Python a course through Udemy [repo here](https://github.com/BrianLoveGa/atbs-python)
+
 
 ---
 __Portfolios__
 
-Before I knew any better I bought a site through _go-daddy_. Here I have recreated / improved it
+💻*-*[my first portfolio](www.brianloveless.com) via go-daddy
 
 💻*-*[first portfolio site re-creation](https://brianloveless-copy.netlify.com/) via Netlify
-
-Just check the console log errors between them. The original site is below.
-
-💻*-*[my first portfolio](www.brianloveless.com) via go-daddy
 
 Below is a work in progress of a react based portfolio.
 
@@ -183,54 +179,3 @@ MEHN
 MVC
 FULL CRUD
 A node application to practice using Express and Mongoose that tracks and stores Restaurants and reviews.
-
-[Audobon site](https://github.com/BrianLoveGa/bird-site-recreation-react-grid)
-React
-CSS Grid
-Create website from static pictures
-
-[react-stopwatch](https://github.com/BrianLoveGa/stopwatch-in-react)
-Create a stopwatch in React
-
-[state capitals](https://github.com/BrianLoveGa/state-capitals-python)
-a simple study game for USA state capitals in python
-
-[SQL-library](https://github.com/BrianLoveGa/sql-library)
-SQL and CRUD with books
-
-[SQL-carmen & NFL](https://github.com/BrianLoveGa/oldnfl-sql-lab)
-use SQL to find Carmen Sandiego
-use SQL on old NFL player data
-
-[Nostaldja](https://github.com/BrianLoveGa/Nostaldja)
-The name is a play on nostalgia plus Django not a typo.
-Python Django models views and templates
-To track fads over different decades
-crud for fads and decades
-
----
-
-## here are links to open source contributions
-
-The Majority of these were completed during October 2019 'Hack-Tober-Fest' sponsored by Digital Ocean
-
-Twillo [pixel art](https://github.com/BrianLoveGa/open-pixel-art)
-
-[movie quotes](https://github.com/BrianLoveGa/popular-movie-quotes)
-
-[dog API](https://github.com/BrianLoveGa/dog-api-images)
-
-[emoji screen](https://github.com/BrianLoveGa/emojiscreen)
-
-[inspire quotes](https://github.com/BrianLoveGa/inspirational-quotes)
-
----
-
-**code-challenges**
-where I am practicing code challenges to stay sharp
-
-JavaScript and Python and Java now too
-
-[repo here](https://github.com/BrianLoveGa/code_work)
-
-code challenges some from code wars
